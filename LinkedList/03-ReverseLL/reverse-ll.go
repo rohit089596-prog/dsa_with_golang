@@ -11,3 +11,7 @@ func newNode(data int) *Node {
 		next: nil,
 	}
 }
+
+func main() {
+
+}
